@@ -1,0 +1,11 @@
+series_id,series_info,network
+101,,netflix
+102,,amazon_prime
+103,,appletv
+104,,netflix
+105,,HBO
+106,,HBO
+107,,amazon_prime
+108,,netflix
+109,,ted
+110,,sky

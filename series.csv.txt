@@ -1,0 +1,6 @@
+series_id,series_name,genre,rating
+101,rickandmorty,scifi,9.1
+102,invincible,animated,8.7
+103,forallmankind,historicalscifi,7.9
+104,blackmirror,thrillerscifi,8.0
+105,westworld,scifi,8.1
